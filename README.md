@@ -27,8 +27,7 @@ I'm a software engineer passionate about **AI, web development, and automation**
 - **Data-driven recommendation systems** for innovative FYP ideas.  
 
 ## 📫 Reach Me At  
-- 💼 LinkedIn: www.linkedin.com/in/
-anas-ali-356524351
+- 💼 LinkedIn: www.linkedin.com/in/anas-ali-356524351
   
 - 📩 Email: anasali.techxpert@gmail.com  
 
